@@ -1,1 +1,1 @@
-print('Hello Chloe, Git is working!')
+print('My name is gemini')
